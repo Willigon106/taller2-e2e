@@ -1,0 +1,23 @@
+{
+  "name": "taller2_e2e",
+  "version": "1.0.0",
+  "description": "Taller 2 e2e",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Willigon106/taller2-e2e.git"
+  },
+  "author": "William G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Willigon106/taller2-e2e/issues"
+  },
+  "homepage": "https://github.com/Willigon106/taller2-e2e#readme",
+  "devDependencies": {
+    "cypress": "^3.1.5"
+  },
+  "dependencies": {}
+}
